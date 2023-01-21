@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikitaKob
+- 👋 Hi, I’m @NikitaKobzev
 - 👀 I’m interested in programming,  create projekts.
 - 🌱 I’m currently learning in the tehnical school.
 - 💞️ I’m looking to collaborate on large companies.
